@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ColonyAnalyticsSettings>Colony Analytics</ColonyAnalyticsSettings>
+  <EnableDisableAlerts>Вкл / Откл уведомления</EnableDisableAlerts>
+  <SettingEnable>Включить</SettingEnable>
+  <UseThreshold>Порог</UseThreshold>
+  <OnlyCountMeals>Только готовая еда</OnlyCountMeals>
+  <TreatmentsMin>Минимум обработок</TreatmentsMin>
+  <AlertDaysLeft>Дней</AlertDaysLeft>
+  <AlertInjuryCount>Ранений</AlertInjuryCount>
+  <AlertAnimalCount>Животных</AlertAnimalCount>
+  <AlertImmunityLagPercent>Отставание %</AlertImmunityLagPercent>
+
+  <TabFood>Еда</TabFood>
+  <TabMedicine>Лекарства</TabMedicine>
+  <TabAnimals>Животные</TabAnimals>
+  <TabDoctor>Врач</TabDoctor>
+  <TabRepair>Ремонт</TabRepair>
+  <TabImmunity>Иммунитет</TabImmunity>
+  <TabOther>Прочее</TabOther>
+
+  <TabFoodDesc>Отслеживает запасы еды: сколько дней хватит текущего запаса с учётом кол-ва поселенцев и их скорости метаболизма.</TabFoodDesc>
+  <TabMedicineDesc>Считает доступные лекарства и необработанные ранения. Предупреждает о нехватке.</TabMedicineDesc>
+  <TabAnimalsDesc>Находит голодающих животных по Hediff недоедания или нулевому уровню еды.</TabAnimalsDesc>
+  <TabDoctorDesc>Предупреждает, если все врачи (с приоритетом медицины) без сознания.</TabDoctorDesc>
+  <TabRepairDesc>Проверяет повреждённые постройки — какие не могут быть починены из-за нехватки ресурсов.</TabRepairDesc>
+  <TabImmunityDesc>Отслеживает поселенцев, у которых инфекция опережает иммунитет.</TabImmunityDesc>
+  <TabOtherDesc>Общие настройки приветствия.</TabOtherDesc>
+
+  <AlertFoodPrediction>Прогноз еды</AlertFoodPrediction>
+  <AlertMedicinePrediction>Прогноз лекарств</AlertMedicinePrediction>
+  <AlertStarvingAnimals>Голодающие животные</AlertStarvingAnimals>
+  <AlertDoctor>Врач без сознания</AlertDoctor>
+  <AlertRepairResources>Ресурсы для ремонта</AlertRepairResources>
+  <AlertImmunity>Отставание иммунитета</AlertImmunity>
+
+  <AlertFoodDays>Еды хватит на {0} дн</AlertFoodDays>
+  <AlertFoodDaysDesc>Питательность: {1} | Поселенцев: {2}\nЕды хватит примерно на {0} дн</AlertFoodDaysDesc>
+  <AlertFoodMealsDesc>Готовых блюд: {1} | Поселенцев: {2}\nЕды хватит примерно на {0} дн</AlertFoodMealsDesc>
+
+  <AlertMedicineCount>Лекарств: {0}, Раненых: {1}</AlertMedicineCount>
+  <AlertMedicineCountDesc>Доступно обработок: {0}\nНеобработанных ранений: {1}</AlertMedicineCountDesc>
+  <PawnInjuryCount>{0} — {1} ранений</PawnInjuryCount>
+  <PawnDeathInHours> (смерть через {0} ч)</PawnDeathInHours>
+  <PawnDeathInSeconds> (смерть через {0} сек)</PawnDeathInSeconds>
+  <MedicineShortage>НЕ ХВАТАЕТ ЛЕКАРСТВ!</MedicineShortage>
+  <MedicineSufficient>Запаса достаточно</MedicineSufficient>
+
+  <AlertStarvingAnimals>Голодные животные: {0}</AlertStarvingAnimals>
+  <AlertStarvingAnimalsDesc>{0} голодающих животных (недоедание или 0 еды)</AlertStarvingAnimalsDesc>
+
+  <AlertUnconsciousDoctor>Врач без сознания</AlertUnconsciousDoctor>
+  <AlertUnconsciousDoctorDesc>{0} врач(ей) без сознания, нет доступных врачей</AlertUnconsciousDoctorDesc>
+
+  <AlertRepairResources>Не хватает ресурсов: {0}</AlertRepairResources>
+  <AlertRepairResourcesDesc>{0} построек без ресурсов:\n{1}</AlertRepairResourcesDesc>
+
+  <AlertImmunityLag>Иммунитет отстаёт: {0}</AlertImmunityLag>
+  <AlertImmunityLagDesc>Отставание иммунитета:\n{0}</AlertImmunityLagDesc>
+
+  <ShowWelcomeMessage>Показывать приветствие</ShowWelcomeMessage>
+  <ShowWelcomeMessageTip>Показывать одноразовое приветствие при старте новой колонии</ShowWelcomeMessageTip>
+
+  <WelcomeText>Добро пожаловать в Colony Analytics!\n\nМод добавляет уведомления на панель:\n\n• Еды хватит на X дн. — расчёт запасов\n• Лекарств на X ранений — доступные медикаменты\n• Голодные животные — предупреждение о голоде\n• Врач без сознания — нет доступного врача\n• Ресурсы для ремонта — не хватает материалов\n• Иммунитет отстаёт — инфекция опережает иммунитет\n\nВсе настройки:\nМеню → Настройки → Mod Settings → Colony Analytics</WelcomeText>
+  <WelcomeButtonOk>Понятно!</WelcomeButtonOk>
+  <WelcomeButtonSettings>Настройки</WelcomeButtonSettings>
+</LanguageData>

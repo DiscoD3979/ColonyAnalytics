@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Colony Analytics</name>
+  <author>DiscoD3979</author>
+  <modVersion>1.0.1</modVersion>
+  <description>EN:
+Smart alerts for your colony: food/medicine forecasts, starving animals, doctor status, repair tracking, and immunity warnings. Fully configurable.
+
+RU:
+Умные уведомления для колонии: прогноз еды и лекарств, голод животных, врачи, ремонт и иммунитет. Всё настраивается.</description>
+  <supportedVersions>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>DiscoD3979.ColonyAnalytics</packageId>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+</ModMetaData>

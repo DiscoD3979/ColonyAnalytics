@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="56" viewBox="0 0 800 56">
+  <defs>
+    <pattern id="p" x="52" y="0" width="20" height="56" patternUnits="userSpaceOnUse">
+      <polyline points="20,0 0,19 20,38 0,56" fill="none" stroke="#2ecc71" stroke-width="1.5" stroke-linejoin="round" opacity="0.3"/>
+    </pattern>
+    <mask id="m">
+      <rect x="52" y="0" width="748" height="56" fill="white"/>
+      <rect x="338" y="6" width="176" height="44" rx="5" fill="black"/>
+    </mask>
+  </defs>
+  <g transform="translate(0, 0) scale(1.5)" fill="none" stroke="#2ecc71" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M15 6 L26 11 L26 22 Q26 28 15 33 Q6 28 6 22 L6 11 Z"/>
+    <path d="M10 20 L14 26 L21 17" stroke-width="2.3"/>
+  </g>
+  <rect x="52" y="0" width="748" height="56" fill="url(#p)" mask="url(#m)"/>
+  <text x="426" y="37" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#2ecc71" letter-spacing="3">ИММУНИТЕТ</text>
+</svg>

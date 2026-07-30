@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ColonyAnalyticsSettings>Colony Analytics</ColonyAnalyticsSettings>
+  <EnableDisableAlerts>Enable / Disable Alerts</EnableDisableAlerts>
+  <SettingEnable>Enable</SettingEnable>
+  <UseThreshold>Use threshold</UseThreshold>
+  <OnlyCountMeals>Prepared food only</OnlyCountMeals>
+  <TreatmentsMin>Minimum treatments</TreatmentsMin>
+  <AlertDaysLeft>Days left</AlertDaysLeft>
+  <AlertInjuryCount>Injury count</AlertInjuryCount>
+  <AlertAnimalCount>Animal count</AlertAnimalCount>
+  <AlertImmunityLagPercent>Immunity lag %</AlertImmunityLagPercent>
+
+  <TabFood>Food</TabFood>
+  <TabMedicine>Medicine</TabMedicine>
+  <TabAnimals>Animals</TabAnimals>
+  <TabDoctor>Doctor</TabDoctor>
+  <TabRepair>Repair</TabRepair>
+  <TabImmunity>Immunity</TabImmunity>
+  <TabOther>Other</TabOther>
+
+  <TabFoodDesc>Tracks food supply: calculates how many days current nutrition will last based on the number of colonists and their hunger rate.</TabFoodDesc>
+  <TabMedicineDesc>Counts available medicine and untended injuries. Alerts when medicine runs low.</TabMedicineDesc>
+  <TabAnimalsDesc>Detects starving animals by checking for the Malnutrition hediff or zero food level.</TabAnimalsDesc>
+  <TabDoctorDesc>Warns when all doctors (Medicine priority enabled) are downed or incapacitated.</TabDoctorDesc>
+  <TabRepairDesc>Checks all damaged buildings and shows which ones can't be repaired due to missing resources.</TabRepairDesc>
+  <TabImmunityDesc>Monitors colonists whose infection severity is ahead of their immunity progress.</TabImmunityDesc>
+  <TabOtherDesc>General settings and welcome message preferences.</TabOtherDesc>
+
+  <AlertFoodPrediction>Food prediction</AlertFoodPrediction>
+  <AlertMedicinePrediction>Medicine prediction</AlertMedicinePrediction>
+  <AlertStarvingAnimals>Starving animals</AlertStarvingAnimals>
+  <AlertDoctor>Unconscious doctor</AlertDoctor>
+  <AlertRepairResources>Repair resources</AlertRepairResources>
+  <AlertImmunity>Immunity lag</AlertImmunity>
+
+  <AlertFoodDays>Food will last {0} days</AlertFoodDays>
+  <AlertFoodDaysDesc>Nutrition: {1} | Pawns: {2}\nFood supply will last approx. {0} days.</AlertFoodDaysDesc>
+  <AlertFoodMealsDesc>Meals: {1} | Pawns: {2}\nFood supply will last approx. {0} days.</AlertFoodMealsDesc>
+
+  <AlertMedicineCount>Medicine: {0}, Wounded: {1}</AlertMedicineCount>
+  <AlertMedicineCountDesc>Available treatments: {0}\nUntreated injuries: {1}</AlertMedicineCountDesc>
+  <PawnInjuryCount>{0} — {1} injuries</PawnInjuryCount>
+  <PawnDeathInHours> (death in {0} h)</PawnDeathInHours>
+  <PawnDeathInSeconds> (death in {0} sec)</PawnDeathInSeconds>
+  <MedicineShortage>MEDICINE SHORTAGE!</MedicineShortage>
+  <MedicineSufficient>Supply is sufficient.</MedicineSufficient>
+
+  <AlertStarvingAnimals>Starving animals: {0}</AlertStarvingAnimals>
+  <AlertStarvingAnimalsDesc>{0} starving animals (malnutrition or no food).</AlertStarvingAnimalsDesc>
+
+  <AlertUnconsciousDoctor>Doctor unconscious</AlertUnconsciousDoctor>
+  <AlertUnconsciousDoctorDesc>{0} doctor(s) incapacitated. No doctors available.</AlertUnconsciousDoctorDesc>
+
+  <AlertRepairResources>Missing repair resources: {0}</AlertRepairResources>
+  <AlertRepairResourcesDesc>{0} buildings need resources:\n{1}</AlertRepairResourcesDesc>
+
+  <AlertImmunityLag>Immunity lagging: {0}</AlertImmunityLag>
+  <AlertImmunityLagDesc>Immunity behind infection:\n{0}</AlertImmunityLagDesc>
+
+  <ShowWelcomeMessage>Show welcome on new game</ShowWelcomeMessage>
+  <ShowWelcomeMessageTip>Show a one-time welcome message when starting a new colony.</ShowWelcomeMessageTip>
+
+  <WelcomeText>Welcome to Colony Analytics!\n\nThis mod adds useful alerts to your notification panel:\n\n• Food will last X days — tracks nutrition supply\n• Medicine for X treatments — shows available medicine\n• Starving animals — alerts if animals lack food\n• Doctor unconscious — warns when no doctor is available\n• No repair resources — shows missing materials for repairs\n• Immunity lagging — warns if infection outpaces immunity\n\nAll alerts can be configured in:\nMenu → Options → Mod Settings → Colony Analytics</WelcomeText>
+  <WelcomeButtonOk>Got it!</WelcomeButtonOk>
+  <WelcomeButtonSettings>Open Settings</WelcomeButtonSettings>
+</LanguageData>

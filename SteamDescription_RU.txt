@@ -1,0 +1,68 @@
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/header_ru.png[/img]
+
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/food_ru.png[/img]
+
+Сколько дней хватит запасов с учётом количества поселенцев и их метаболизма.
+
+[list]
+[*]Считает ВСЕ съедобные предметы на складах
+[*]Или режим "Только готовая еда" — считает блюда, а не сырые продукты
+[*]Учитывает диеты поселенцев (настройки питания)
+[/list]
+
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/health_ru.png[/img]
+
+Сколько обработок есть против количества ранений.
+
+[list]
+[*]Показывает каждого раненого с количеством ранений
+[*]Время до смерти от кровопотери (часы, доли часов, секунды — как в игре)
+[/list]
+
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/animals_ru.png[/img]
+
+Находит голодающих животных до того, как станет поздно.
+
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/doctor_ru.png[/img]
+
+Предупреждает, если ВСЕ врачи без сознания.
+
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/repair_ru.png[/img]
+
+Показывает повреждённые постройки, которые нельзя починить из-за нехватки материалов.
+
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/immunity_ru.png[/img]
+
+Оповещает, если инфекция опережает иммунитет.
+
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/config_ru.png[/img]
+
+Все опции в Меню → Настройки → Mod Settings → Colony Analytics.
+
+[list]
+[*]Каждое уведомление включается/отключается отдельно
+[*]Настраиваемые пороги (например, предупредить, если еды < 3 дней)
+[*]Режимы подсчёта еды: по питательности или только блюда
+[*]Минимум обработок для предупреждения
+[*]Приветственное окно с быстрым доступом к настройкам
+[/list]
+
+[h2]Контакты[/h2]
+
+[list]
+[*]Нашли баг или есть предложение? Пишите: [url=https://steamcommunity.com/id/DiscoD3979/]@DiscoD3979[/url]
+[/list]
+
+[h2]Прочее[/h2]
+
+[list]
+[*]Поддерживает модные хранилища (Deep Storage, паллеты, стеллажи и т.д.)
+[*]Совместим с большинством других модов
+[*]Работает со всеми DLC RimWorld (Biotech, Ideology, Royalty, Anomaly)
+[/list]
+
+[h2]Благодарность[/h2]
+
+[img]https://images.steamusercontent.com/ugc/1905604820260681693/EA40E629D6855C51DF9F204C27DAB320FA52B503/[/img]
+
+[i]Знай свою колонию. Планируй заранее. Выживай.[/i]

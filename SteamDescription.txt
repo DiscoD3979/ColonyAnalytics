@@ -1,0 +1,145 @@
+[img]https://URL/header.svg[/img]
+
+[i]Never let your colony run out of essentials again.[/i]
+
+[hr][/hr]
+
+[img]https://URL/food.svg[/img]
+
+[b]Food Prediction[/b] — Shows how many days your food will last based on colonist count and hunger rates.
+
+[list]
+[*]Count ALL edible items on stockpiles
+[*]Or switch to "Prepared food only" mode — counts meals, not raw ingredients
+[*]Respects colony food restrictions (diet policies)
+[/list]
+
+[img]https://URL/health.svg[/img]
+
+[b]Medicine Forecast[/b] — Tracks available treatments vs untreated injuries.
+
+[list]
+[*]Lists every wounded pawn with injury count
+[*]Shows time until death from blood loss (hours, decimal hours, seconds — matches the in-game health tab)
+[/list]
+
+[img]https://URL/animals.svg[/img]
+
+[b]Starving Animals[/b] — Detects malnourished or starving animals before it's too late.
+
+[img]https://URL/doctor.svg[/img]
+
+[b]Doctor Status[/b] — Warns if ALL your doctors are downed or incapacitated.
+
+[img]https://URL/repair.svg[/img]
+
+[b]Repair Resources[/b] — Lists damaged buildings that can't be repaired due to missing materials.
+
+[img]https://URL/immunity.svg[/img]
+
+[b]Immunity Tracker[/b] — Alerts when infection severity outpaces immunity progress.
+
+[img]https://URL/config.svg[/img]
+
+[b]Configuration[/b] — All options in Menu → Options → Mod Settings → Colony Analytics.
+
+[list]
+[*]Toggle each alert on/off independently
+[*]Set custom thresholds (e.g., warn when food < 3 days)
+[*]Switch between nutrition-based and meal-based food counting
+[*]Configure minimum medicine treatment count
+[*]One-time welcome dialog with quick-access to settings
+[/list]
+
+[hr][/hr]
+
+[b]Languages:[/b] English, Русский
+
+[b]Requirements:[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077]Harmony (brrainz.harmony)[/url]
+
+[b]Compatible:[/b] RimWorld 1.5, 1.6
+
+Lightweight — no performance impact. Fully save-compatible.
+
+[hr][/hr]
+
+[h2]Благодарность / Credits[/h2]
+
+[img]https://images.steamusercontent.com/ugc/1905604820260681693/EA40E629D6855C51DF9F204C27DAB320FA52B503/[/img]
+
+[hr][/hr]
+
+[i]Know your colony. Plan ahead. Survive.[/i]
+
+[img]https://URL/header_ru.svg[/img]
+
+[i]Ваша колония никогда не останется без самого необходимого.[/i]
+
+[hr][/hr]
+
+[img]https://URL/food.svg[/img]
+
+[b]Прогноз еды[/b] — Сколько дней хватит запасов с учётом количества поселенцев и их метаболизма.
+
+[list]
+[*]Считает ВСЕ съедобные предметы на складах
+[*]Или режим "Только готовая еда" — считает блюда, а не сырые продукты
+[*]Учитывает диеты поселенцев (настройки питания)
+[/list]
+
+[img]https://URL/health.svg[/img]
+
+[b]Прогноз лекарств[/b] — Сколько обработок есть против количества ранений.
+
+[list]
+[*]Показывает каждого раненого с количеством ранений
+[*]Время до смерти от кровопотери (часы, доли часов, секунды — как в игре)
+[/list]
+
+[img]https://URL/animals.svg[/img]
+
+[b]Голодающие животные[/b] — Находит голодающих животных до того, как станет поздно.
+
+[img]https://URL/doctor.svg[/img]
+
+[b]Статус врача[/b] — Предупреждает, если ВСЕ врачи без сознания.
+
+[img]https://URL/repair.svg[/img]
+
+[b]Ресурсы для ремонта[/b] — Показывает повреждённые постройки, которые нельзя починить из-за нехватки материалов.
+
+[img]https://URL/immunity.svg[/img]
+
+[b]Иммунитет[/b] — Оповещает, если инфекция опережает иммунитет.
+
+[img]https://URL/config.svg[/img]
+
+[b]Настройки[/b] — Все опции в Меню → Настройки → Mod Settings → Colony Analytics.
+
+[list]
+[*]Каждое уведомление включается/отключается отдельно
+[*]Настраиваемые пороги (например, предупредить, если еды < 3 дней)
+[*]Режимы подсчёта еды: по питательности или только блюда
+[*]Минимум обработок для предупреждения
+[*]Приветственное окно с быстрым доступом к настройкам
+[/list]
+
+[hr][/hr]
+
+[b]Языки:[/b] English, Русский
+
+[b]Требования:[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077]Harmony (brrainz.harmony)[/url]
+
+[b]Совместимость:[/b] RimWorld 1.5, 1.6
+
+Лёгкий — не влияет на производительность. Полностью совместим с сохранениями.
+
+[hr][/hr]
+
+[h2]Благодарность / Credits[/h2]
+
+[img]https://images.steamusercontent.com/ugc/1905604820260681693/EA40E629D6855C51DF9F204C27DAB320FA52B503/[/img]
+
+[hr][/hr]
+
+[i]Знай свою колонию. Планируй заранее. Выживай.[/i]

@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Project Code\\Projects\\Mods RimWorld\\ColonyAnalytics\\Source\\ColonyAnalytics\\ColonyAnalytics.csproj": {}
+  },
+  "projects": {
+    "D:\\Project Code\\Projects\\Mods RimWorld\\ColonyAnalytics\\Source\\ColonyAnalytics\\ColonyAnalytics.csproj": {
+      "version": "1.0.1",
+      "restore": {
+        "projectUniqueName": "D:\\Project Code\\Projects\\Mods RimWorld\\ColonyAnalytics\\Source\\ColonyAnalytics\\ColonyAnalytics.csproj",
+        "projectName": "ColonyAnalytics",
+        "projectPath": "D:\\Project Code\\Projects\\Mods RimWorld\\ColonyAnalytics\\Source\\ColonyAnalytics\\ColonyAnalytics.csproj",
+        "packagesPath": "C:\\Users\\DiscoD3979\\.nuget\\packages\\",
+        "outputPath": "D:\\Project Code\\Projects\\Mods RimWorld\\ColonyAnalytics\\Source\\ColonyAnalytics\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DiscoD3979\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Lib.Harmony": {
+              "target": "Package",
+              "version": "[2.3.*, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

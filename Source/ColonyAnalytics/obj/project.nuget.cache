@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kP6WCVP0UaXLP62/uNih2kvRKA+VrkiAk4W8WTkHC7yZy8xmA2AR4mpGXtzJethNGsE/gwEkUHn1Cv+x+T9k2w==",
+  "success": true,
+  "projectFilePath": "D:\\Project Code\\Projects\\Mods RimWorld\\ColonyAnalytics\\Source\\ColonyAnalytics\\ColonyAnalytics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DiscoD3979\\.nuget\\packages\\lib.harmony\\2.3.6\\lib.harmony.2.3.6.nupkg.sha512",
+    "C:\\Users\\DiscoD3979\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\DiscoD3979\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

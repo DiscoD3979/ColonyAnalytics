@@ -1,0 +1,68 @@
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/header.png[/img]
+
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/food_en.png[/img]
+
+Shows how many days your food will last, factoring in colonist count and hunger rates.
+
+[list]
+[*]Counts ALL edible items on stockpiles
+[*]Or switch to "Prepared food only" mode — counts meals, not raw ingredients
+[*]Respects colony food restrictions (diet policies)
+[/list]
+
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/health_en.png[/img]
+
+Tracks available treatments against untreated injuries.
+
+[list]
+[*]Lists every wounded pawn with injury count
+[*]Shows time until death from blood loss (hours, decimal hours, seconds — matches the in-game health tab)
+[/list]
+
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/animals_en.png[/img]
+
+Detects malnourished or starving animals before it's too late.
+
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/doctor_en.png[/img]
+
+Warns if ALL your doctors are downed or incapacitated.
+
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/repair_en.png[/img]
+
+Lists damaged buildings that can't be fixed due to missing materials.
+
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/immunity_en.png[/img]
+
+Alerts when infection severity outpaces immunity progress.
+
+[img]https://raw.githubusercontent.com/DiscoD3979/ColonyAnalytics/main/config_en.png[/img]
+
+All options in Menu → Options → Mod Settings → Colony Analytics.
+
+[list]
+[*]Toggle each alert on/off independently
+[*]Set custom thresholds (e.g., warn when food < 3 days)
+[*]Switch between nutrition-based and meal-based food counting
+[*]Configure minimum medicine treatment count
+[*]One-time welcome dialog with quick access to settings
+[/list]
+
+[h2]Contact[/h2]
+
+[list]
+[*]Found a bug or have a suggestion? Contact me: [url=https://steamcommunity.com/id/DiscoD3979/]@DiscoD3979[/url]
+[/list]
+
+[h2]Other[/h2]
+
+[list]
+[*]Supports modded storage (Deep Storage, pallets, shelves, etc.)
+[*]Compatible with most other mods
+[*]Works with all RimWorld DLC (Biotech, Ideology, Royalty, Anomaly)
+[/list]
+
+[h2]Credits[/h2]
+
+[img]https://images.steamusercontent.com/ugc/1905604820260681693/EA40E629D6855C51DF9F204C27DAB320FA52B503/[/img]
+
+[i]Know your colony. Plan ahead. Survive.[/i]

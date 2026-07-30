@@ -1,0 +1,10 @@
+D:\Project Code\Projects\Mods RimWorld\ColonyAnalytics\Source\ColonyAnalytics\obj\Debug\ColonyAnalytics.csproj.AssemblyReference.cache
+D:\Project Code\Projects\Mods RimWorld\ColonyAnalytics\Source\ColonyAnalytics\obj\Debug\ColonyAnalytics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Code\Projects\Mods RimWorld\ColonyAnalytics\Source\ColonyAnalytics\obj\Debug\ColonyAnalytics.AssemblyInfoInputs.cache
+D:\Project Code\Projects\Mods RimWorld\ColonyAnalytics\Source\ColonyAnalytics\obj\Debug\ColonyAnalytics.AssemblyInfo.cs
+D:\Project Code\Projects\Mods RimWorld\ColonyAnalytics\Source\ColonyAnalytics\obj\Debug\ColonyAnalytics.csproj.CoreCompileInputs.cache
+D:\Project Code\Projects\Mods RimWorld\ColonyAnalytics\1.6\Assemblies\ColonyAnalytics.dll
+D:\Project Code\Projects\Mods RimWorld\ColonyAnalytics\1.6\Assemblies\ColonyAnalytics.pdb
+D:\Project Code\Projects\Mods RimWorld\ColonyAnalytics\Source\ColonyAnalytics\obj\Debug\ColonyAnalytics.csproj.CopyComplete
+D:\Project Code\Projects\Mods RimWorld\ColonyAnalytics\Source\ColonyAnalytics\obj\Debug\ColonyAnalytics.dll
+D:\Project Code\Projects\Mods RimWorld\ColonyAnalytics\Source\ColonyAnalytics\obj\Debug\ColonyAnalytics.pdb

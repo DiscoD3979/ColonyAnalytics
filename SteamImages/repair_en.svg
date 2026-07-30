@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="56" viewBox="0 0 800 56">
+  <defs>
+    <pattern id="p" x="52" y="0" width="20" height="56" patternUnits="userSpaceOnUse">
+      <polyline points="20,0 0,19 20,38 0,56" fill="none" stroke="#f39c12" stroke-width="1.5" stroke-linejoin="round" opacity="0.3"/>
+    </pattern>
+    <mask id="m">
+      <rect x="52" y="0" width="748" height="56" fill="white"/>
+      <rect x="363" y="6" width="126" height="44" rx="5" fill="black"/>
+    </mask>
+  </defs>
+  <g transform="translate(-12, -644) scale(2.2)" fill="none" stroke="#f39c12" stroke-width="1.3" stroke-linejoin="round">
+    <path d="m 24.775889,297.28984 -3.995429,3.99543 -2.828427,-2.82843 3.994048,-3.99404 a 6,6 0 0 0 -6.822475,1.16562 6,6 0 0 0 -1.548177,5.79082 l -6.9371048,6.9371 c -1.1752115,1.17521 -1.1752115,3.06743 0,4.24264 1.1752115,1.17521 3.0674292,1.17521 4.2426408,0 l 6.938485,-6.93848 a 6,6 0 0 0 5.789437,-1.5468 6,6 0 0 0 1.167002,-6.82386 z"/>
+  </g>
+  <rect x="52" y="0" width="748" height="56" fill="url(#p)" mask="url(#m)"/>
+  <text x="426" y="37" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#f39c12" letter-spacing="3">REPAIR</text>
+</svg>
